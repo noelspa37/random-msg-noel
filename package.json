@@ -14,7 +14,15 @@
   "author": "Noel Callapina",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelspa37/random-msg-noel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noelspa37/random-msg-noel/issues"
+  },
+  "homepage": "https://github.com/noelspa37/random-msg-noel#readme"
 }
